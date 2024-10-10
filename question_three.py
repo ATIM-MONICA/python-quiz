@@ -30,3 +30,4 @@ if 0 <= marks_scored <= 100:
         print("Grade:", grade)
 else:
     print("Invalid marks. Please enter the value between o and 100.")
+    
